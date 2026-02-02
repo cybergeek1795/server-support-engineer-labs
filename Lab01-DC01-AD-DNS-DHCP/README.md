@@ -1,5 +1,5 @@
-#### **Part 1: Foundation & Infrastructure** (Labs 1-2)
-- Lab 1: VMware Workstation Setup and Configuration
-- Lab 2: Windows Server 2025 Installation and Domain Controller Setup
-- Complete prerequisites and environment setup
-- Network architecture and planning
+Lab 1 - Building Your Domain Controller (DC01) 
+- AD DS
+- DNS
+- DHCP
+- Create a fully functional enterprise domain controller that will support all future labs
